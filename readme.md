@@ -47,6 +47,7 @@
 | restart| restarts the system
 | prompt <arg> | changes the bash prompt to <arg>
 | clear | clears the screen
+| game | starts the snake game
 ##
 ##
 ## Disk Commands
