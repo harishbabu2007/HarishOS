@@ -21,6 +21,7 @@
 ## 
 ##
 ## How To Run Harish OS
+ - First Download The zip file from realeases and extract it, which will have the iso and vmdk for virtualbox
  - use a virtual box or vmware to run the iso
  - as a hard disk please use FileSystem.vmdk
  - And please use AHCI controller type in virtual machine 
